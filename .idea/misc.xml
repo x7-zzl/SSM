@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisProjectProfileManager">
+    <option name="PROJECT_PROFILE" />
+    <option name="USE_PROJECT_LEVEL_SETTINGS" value="false" />
+    <list size="0" />
+  </component>
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/../maven" />
+    <file type="web" url="file://$PROJECT_DIR$/../maven_use" />
+    <file type="web" url="file://$PROJECT_DIR$/../MyBatisPlus" />
+    <file type="web" url="file://$PROJECT_DIR$/../Spring" />
+    <file type="web" url="file://$PROJECT_DIR$/../spring_11_annotation_bean" />
+    <file type="web" url="file://$PROJECT_DIR$/../SpringMVC" />
+    <file type="web" url="file://$PROJECT_DIR$" />
+    <file type="web" url="file://$PROJECT_DIR$/../SSM_Unit" />
+    <file type="web" url="file://$PROJECT_DIR$/../zzl" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/../Spring/pom.xml" />
+        <option value="$PROJECT_DIR$/../Spring/spring_14_annotation_third_bean_manager/pom.xml" />
+        <option value="$PROJECT_DIR$/../Spring/spring_15_spring_mybatis/pom.xml" />
+        <option value="$PROJECT_DIR$/../Spring/spring_16_spring_junit/pom.xml" />
+        <option value="$PROJECT_DIR$/../Spring/spring_17_aop_demo/pom.xml" />
+        <option value="$PROJECT_DIR$/../Spring/spring_13_annotation_di/pom.xml" />
+        <option value="$PROJECT_DIR$/../Spring/spring_18_aop_quickstart/pom.xml" />
+        <option value="$PROJECT_DIR$/../Spring/spring_19_aop_pointcut/pom.xml" />
+        <option value="$PROJECT_DIR$/../SpringMVC/pom.xml" />
+        <option value="$PROJECT_DIR$/../Spring/spring_20_aop_advice_type/pom.xml" />
+        <option value="$PROJECT_DIR$/../Spring/spring_21_case_interface_run_speed/pom.xml" />
+        <option value="$PROJECT_DIR$/../SpringMVC/springmvc_02_bean_load/pom.xml" />
+        <option value="$PROJECT_DIR$/../SpringMVC/springmvc_03_request_mapping/pom.xml" />
+        <option value="$PROJECT_DIR$/../SpringMVC/springmvc_04_request_param/pom.xml" />
+        <option value="$PROJECT_DIR$/../SpringMVC/springmvc_05_response_/pom.xml" />
+        <option value="$PROJECT_DIR$/../SpringMVC/springmvc_06_rest/pom.xml" />
+        <option value="$PROJECT_DIR$/../SpringMVC/springmvc_07_rest_case/pom.xml" />
+        <option value="$PROJECT_DIR$/../MybatisPLus/pom.xml" />
+        <option value="$PROJECT_DIR$/../SSM_Unit/pom.xml" />
+        <option value="$PROJECT_DIR$/../SSM_Unit/springmvc_08_ssm/pom.xml" />
+        <option value="$PROJECT_DIR$/../SSM_Unit/springmvc_10_exception/pom.xml" />
+        <option value="$PROJECT_DIR$/../SpringMVC/springmvc_11_page/pom.xml" />
+        <option value="$PROJECT_DIR$/../zzl/springmvc_11/pom.xml" />
+        <option value="$PROJECT_DIR$/../SpringMVC/springmvc_12_interceptor/pom.xml" />
+        <option value="$PROJECT_DIR$/../maven/pom.xml" />
+        <option value="$PROJECT_DIR$/../maven_use/pom.xml" />
+        <option value="$PROJECT_DIR$/../maven_use/maven_04_dao/pom.xml" />
+        <option value="$PROJECT_DIR$/../maven_use/maven_01_parent/pom.xml" />
+        <option value="$PROJECT_DIR$/../maven_use/maven_02_ssm/pom.xml" />
+        <option value="$PROJECT_DIR$/../maven_use/maven_03_pojo/pom.xml" />
+        <option value="$PROJECT_DIR$/../MyBatisPlus/MyBatis-Plus/pom.xml" />
+        <option value="$PROJECT_DIR$/../MyBatisPlus/MyBatis-Plus/Mybatis_Project1/pom.xml" />
+        <option value="$PROJECT_DIR$/../MyBatisPlus/MyBatis-Plus/mybatisplus_01_quickstart/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+  <component name="SuppressionsComponent">
+    <option name="suppComments" value="[]" />
+  </component>
+</project>

@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="spring_19_aop_pointcut:war">
+    <output-path>$PROJECT_DIR$/../Spring/spring_19_aop_pointcut/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>spring_19_aop_pointcut</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="spring_19_aop_pointcut-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="spring_19_aop_pointcut:war exploded" />
+    </root>
+  </artifact>
+</component>

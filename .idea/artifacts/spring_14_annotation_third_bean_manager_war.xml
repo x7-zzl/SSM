@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="spring_14_annotation_third_bean_manager:war">
+    <output-path>$PROJECT_DIR$/../Spring/spring_14_annotation_third_bean_manager/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>spring_14_annotation_third_bean_manager</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="spring_14_annotation_third_bean_manager-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="spring_14_annotation_third_bean_manager:war exploded" />
+    </root>
+  </artifact>
+</component>

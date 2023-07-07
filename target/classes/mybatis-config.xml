@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE configuration
+        PUBLIC "-//mybatis.org//DTD Config 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-zzl.config.dtd">
+<configuration>
+
+    <typeAliases>
+        <package name="pojo"/>
+    </typeAliases>
+
+
+    <environments default="development">
+
+        <!--        1-->
+        <environment id="development">
+            <transactionManager type="JDBC"/>
+            <dataSource type="POOLED">
+                <property name="driver" value="com.mysql.cj.jdbc.Driver"/>
+                <property name="url" value="jdbc:mysql://localhost:3306/webframe?useSSL=true&amp;useUnicode=true&amp;characterEncoding=UTF-8&amp;serverTimezone=GMT"/>
+                <property name="username" value="root"/>
+                <property name="password" value="yswysyydxj"/>
+            </dataSource>
+        </environment>
+
+<!--        另一个数据库-->
+        <!--        2-->
+        <!--        <environment id="test">-->
+        <!--            <transactionManager type="JDBC"/>-->
+        <!--            <dataSource type="POOLED">-->
+        <!--                <property name="driver" value="com.mysql.cj.jdbc.Driver"/>-->
+        <!--                <property name="url" value="jdbc:mysql://localhost:3306/webframe"/>-->
+        <!--                <property name="username" value="root"/>-->
+        <!--                <property name="password" value="yswysyydxj"/>-->
+        <!--            </dataSource>-->
+        <!--        </environment>-->
+
+    </environments>
+
+    <mappers>
+        <!--加载sql映射文件-->
+<!--                 <mapper resource="mapper.UserMapper"/>-->
+
+        <!--Mapper代理方式-->
+        <package name="mapper"/>
+
+    </mappers>
+</configuration>

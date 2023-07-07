@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="spring_13_annotation_di:war">
+    <output-path>$PROJECT_DIR$/../Spring/spring_13_annotation_di/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>spring_13_annotation_di</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="spring_13_annotation_di-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="spring_13_annotation_di:war exploded" />
+    </root>
+  </artifact>
+</component>

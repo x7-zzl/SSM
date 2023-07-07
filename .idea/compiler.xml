@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="Mybatis_Project1" />
+        <module name="maven_04_dao" />
+        <module name="spring_13_annotation_di" />
+        <module name="SpringMVC" />
+        <module name="spring_16_spring_junit" />
+        <module name="MyBatis-Plus" />
+        <module name="springmvc_11_page" />
+        <module name="spring_14_annotation_third_bean_manager" />
+        <module name="springmvc_10_exception" />
+        <module name="spring_15_spring_mybatis" />
+        <module name="springmvc_06_rest" />
+        <module name="springmvc_02_bean_load" />
+        <module name="spring_17_aop_demo" />
+        <module name="maven_03_pojo" />
+        <module name="mybatisplus_01_quickstart" />
+        <module name="springmvc_05_response_" />
+        <module name="maven_02_ssm" />
+        <module name="Spring" />
+        <module name="spring_20_aop_advice_type" />
+        <module name="springmvc_03_request_mapping" />
+        <module name="spring_18_aop_quickstart" />
+        <module name="springmvc_07_rest_case" />
+        <module name="springmvc_12_interceptor" />
+        <module name="springmvc_08_ssm" />
+        <module name="spring_19_aop_pointcut" />
+        <module name="spring_21_case_interface_run_speed" />
+        <module name="maven_use" />
+        <module name="springmvc_04_request_param" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="demo" target="1.8" />
+      <module name="maven" target="1.8" />
+      <module name="maven_01_parent" target="1.5" />
+      <module name="maven_02_ssm" target="1.5" />
+      <module name="maven_03_pojo" target="1.5" />
+      <module name="maven_04_dao" target="1.5" />
+      <module name="maven_use" target="1.8" />
+      <module name="Mybatis" target="1.8" />
+      <module name="MyBatis-Plus" target="1.8" />
+      <module name="Mybatis_Project1" target="1.5" />
+      <module name="MybatisAnnotattion" target="1.8" />
+      <module name="MybatisPLus" target="1.8" />
+      <module name="mybatisplus_01_quickstart" target="1.8" />
+      <module name="Spring" target="1.8" />
+      <module name="spring_13_annotation_di" target="1.8" />
+      <module name="spring_14_annotation_third_bean_manager" target="1.8" />
+      <module name="spring_15_spring_mybatis" target="1.8" />
+      <module name="spring_16_spring_junit" target="1.8" />
+      <module name="spring_17_aop_demo" target="1.8" />
+      <module name="spring_18_aop_quickstart" target="1.8" />
+      <module name="spring_19_aop_pointcut" target="1.8" />
+      <module name="spring_20_aop_advice_type" target="1.8" />
+      <module name="spring_21_case_interface_run_speed" target="1.8" />
+      <module name="SpringMVC" target="1.8" />
+      <module name="springmvc_02_bean_load" target="1.8" />
+      <module name="springmvc_03_request_mapping" target="1.8" />
+      <module name="springmvc_04_request_param" target="1.8" />
+      <module name="springmvc_05_response_" target="1.8" />
+      <module name="springmvc_06_rest" target="1.8" />
+      <module name="springmvc_07_rest_case" target="1.8" />
+      <module name="springmvc_08_ssm" target="1.8" />
+      <module name="springmvc_09_result" target="1.8" />
+      <module name="springmvc_10_exception" target="1.8" />
+      <module name="springmvc_11" target="1.8" />
+      <module name="springmvc_11_page" target="1.8" />
+      <module name="springmvc_12_interceptor" target="1.8" />
+      <module name="SSM_Unit" target="1.8" />
+      <module name="zzl" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

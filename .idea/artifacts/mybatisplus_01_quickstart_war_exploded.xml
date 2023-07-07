@@ -1,0 +1,23 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="mybatisplus_01_quickstart:war exploded">
+    <output-path>$PROJECT_DIR$/../MyBatisPlus/MyBatis-Plus/mybatisplus_01_quickstart/target/mybatisplus_01_quickstart-1.0-SNAPSHOT</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <exploded>true</exploded>
+        <module>mybatisplus_01_quickstart</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="mybatisplus_01_quickstart" />
+        </element>
+      </element>
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/../MyBatisPlus/MyBatis-Plus/mybatisplus_01_quickstart/target/mybatisplus_01_quickstart-1.0-SNAPSHOT/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="javaee-facet-resources" facet="mybatisplus_01_quickstart/web/Web" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="spring_21_case_interface_run_speed:war">
+    <output-path>$PROJECT_DIR$/../Spring/spring_21_case_interface_run_speed/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>spring_21_case_interface_run_speed</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="spring_21_case_interface_run_speed-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="spring_21_case_interface_run_speed:war exploded" />
+    </root>
+  </artifact>
+</component>
